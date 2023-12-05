@@ -33,5 +33,5 @@ import dash_html_components as html
 from dash.dependencies import Input, Output, State
 import io
 
-from components.dataUploader import DataUploader
+from classes.dataUploader import DataUploader
 from classes.databaseClass import PostgressHandler
