@@ -4,7 +4,7 @@ Containing general functions in Feature Engineering
 
 """
 
-from components.PackagesGSC import *
+from components.packages import *
 import webbrowser
 
 

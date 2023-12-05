@@ -1,5 +1,5 @@
 
-from components.PackagesGSC import *   
+from components.packages import *   
 from components.GeneralFunction import *
 from ServerInitialization import app
 from pages import Bank, Home, UploadData, Visualization

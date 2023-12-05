@@ -1,4 +1,4 @@
-from components.PackagesGSC import *   
+from components.packages import *   
 from components.GeneralFunction import *
 from ServerInitialization import app
 

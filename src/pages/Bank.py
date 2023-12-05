@@ -1,5 +1,5 @@
 from dash.html.Pre import Pre
-from components.PackagesGSC import *   
+from components.packages import *   
 from components.GeneralFunction import *
 import components.MessageStore as msg
 from ServerInitialization import app

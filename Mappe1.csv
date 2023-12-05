@@ -1,0 +1,17 @@
+﻿index:;Datum:;Art:;Betrag:;Kontostand:;Buchungsart:;Analyse-Hauptkategorie:;Analyse-Unterkategorie:;Analyse-Fixkosten:;Analyse-Vertragsturnus:;Analyse-Woche:;Analyse-Monat:;Analyse-Jahr:;Analyse-Betrag:
+10;02.10.2023;Condor Riester Rente;-140,00 €;8.943,93 €;Ausgabe;Versicherung;Vorsorge;Ja;monatlich;2023-41;2023-10;2023;140,00 €
+11;02.10.2023;Fitnesstudio: GetFit;-34,90 €;8.909,03 €;Ausgabe;Hobby;Sport;Ja;monatlich;2023-41;2023-10;2023;34,90 €
+12;02.10.2023;Paypal;-67,49 €;8.841,54 €;Ausgabe;Leben;Konsum;;;2023-41;2023-10;2023;67,49 €
+13;02.10.2023;Streaminganteil Tobias;-15,00 €;8.826,54 €;Ausgabe;Leben;Konsum;Ja;monatlich;2023-41;2023-10;2023;15,00 €
+14;02.10.2023;Gehalt Bäldleschwaige;132,96 €;8.959,50 €;Einnahme;Lohn;Nebenjob;;;2023-41;2023-10;2023;132,96 €
+15;04.10.2023;Alte Leipziger BU;-59,87 €;8.899,63 €;Ausgabe;Versicherung;Vorsorge;Ja;monatlich;2023-41;2023-10;2023;59,87 €
+16;05.10.2023;Barclays Card;-472,74 €;8.426,89 €;Ausgabe;Kreditkarte;NaN;;;2023-41;2023-10;2023;472,74 €
+17;10.10.2023;Paypal;-7,99 €;8.418,90 €;Ausgabe;Leben;Konsum;;;2023-42;2023-10;2023;7,99 €
+18;10.10.2023;Paypal;-12,99 €;8.405,91 €;Ausgabe;Leben;Konsum;;;2023-42;2023-10;2023;12,99 €
+19;11.10.2023;Deutschland Ticket;-49,00 €;8.356,91 €;Ausgabe;Leben;Konsum;;;2023-42;2023-10;2023;49,00 €
+20;13.10.2023;Scalable Capital;-700,00 €;7.656,91 €;Umbuchung;Sparen;Aktien;Ja;monatlich;2023-42;2023-10;2023;700,00 €
+21;26.10.2023;Sparplan Daniel;-20,00 €;7.636,91 €;Umbuchung;Sparen;Konto;Ja;monatlich;2023-44;2023-10;2023;20,00 €
+22;26.10.2023;Trade Republic;-1.500,00 €;6.136,91 €;Umbuchung;Sparen;Aktien;Ja;monatlich;2023-44;2023-10;2023;1.500,00 €
+23;27.10.2023;Gehalt Grenzebach;2.997,01 €;9.133,92 €;Einnahme;Lohn;Hauptjob;;;2023-44;2023-10;2023;2.997,01 €
+24;31.10.2023;Streaminganteil Tobias;-15,00 €;9.118,92 €;Ausgabe;Leben;Konsum;Ja;monatlich;2023-45;2023-10;2023;15,00 €
+25;31.10.2023;Kontoführungsgebühren;-4,90 €;9.114,02 €;Ausgabe;Bank;Abgabe;Ja;monatlich;2023-45;2023-10;2023;4,90 €
